@@ -1,2 +1,2 @@
-# 1st-Repo
-This is my first Git Repository
+# To-Do List
+My first Small project using html css & JS
